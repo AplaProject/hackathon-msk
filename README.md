@@ -14,7 +14,7 @@ Overall, the hackathon awards totaled in 1.5 million Rubles. This amount was con
 
    
 ## Hackathon Stages
-### Preliminary Stage:
+### Preliminary Stage
 Before the hackathon, all teams were given a qualifying task. This was done to allow the teams to the opportunity to get acquainted with the platform and deploy the environment for development at the hackathon.
 
 **The qualification task was as follows:** 
@@ -39,14 +39,13 @@ The hackathon participants could choose from a number of tasks given by the hack
 
 ### Hackathon Awards:
 The total prize fund amounted to **1,500,000** Rubles.
-
 The participants competed for prizes in the following nominations:
 1. Solving tasks from Apla - **2 prizes, 200,000 Rubles each**
 2. Finding bugs on the Apla platform - **2 prizes, 100,000 Rubles each**
 3. Task from the Russian Federal Agency for Intellectual Property, Patents and Trademarks - **1 prize, 200,000 Rubles**
 4. Task from Rybakov Fund - **1 prize, 200,000 Rubles**
 5. Tasks from GazpromNeft – 3 nominations:
- - Best Design - **65,000** Rubles
- - Best Business Analysis - **65,000** Rubles
- - Best Solution - **70,000** Rubles
+   - Best Design - **65,000** Rubles
+   - Best Business Analysis - **65,000** Rubles
+   - Best Solution - **70,000** Rubles
 6. Prize provided by IPChain for the best solution - **300,000** Rubles.
