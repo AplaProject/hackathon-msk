@@ -18,7 +18,7 @@ Overall, the hackathon awards totaled in 1.5 million Rubles. This amount was con
 Before the hackathon, all teams were given a qualifying task. This was done to allow the teams to the opportunity to get acquainted with the platform and deploy the environment for development at the hackathon.
 
 **The qualification task was as follows:** 
-  - Study the following materials: http://apla.readthedocs.io/ru/latest/introduction/script.html и http://apla.readthedocs.io/ru/latest/introduction/templates2.html 
+  - Study the following materials: https://genesiskernel.readthedocs.io
   - Download the Quick Start build of the platform (https://github.com/GenesisKernel/quick-start) and install it on a local computer. Find smart contracts, interfaces, and tables.
   - Study the application structure and approaches to programming using the source code of the demo applications available in the Quick Start platform build.
   - Create an interface page with a form to enter comments and a list of approved comments. 
@@ -30,12 +30,12 @@ Before the hackathon, all teams were given a qualifying task. This was done to a
 ### Main Phase of the Hackathon
 The hackathon participants could choose from a number of tasks given by the hackathon partners.
 
- - Task #1 from Apla: [1. Testing the platform and bug-hunting] 
- - Task #2 from Apla: [Providing the best development solution on the platform] 
- - Task from Rybakov-Fund: [Use of blockchain in the non-commercial sector]
- - Task from Gazprom-Neft: [Use of blockchain in oil production operations]
- - Task #1 from the Russian Federal Agency for Intellectual Property, Patents and Trademarks: [Use of blockchain to register developments and inventions]
- - Task #2 from the Russian Federal Agency for Intellectual Property, Patents and Trademarks: [Blockchain platform for technology transfer]
+ - **Task #1 from Apla:** Testing the platform and bug-hunting]
+ - **Task #2 from Apla:** Providing the best development solution on the platform]
+ - **Task from Rybakov-Fund:** Use of blockchain in the non-commercial sector
+ - **Task from Gazprom-Neft:** Use of blockchain in oil production operations
+ - **Task #1 from the Russian Federal Agency for Intellectual Property, Patents and Trademarks:** Use of blockchain to register developments and inventions
+ - **Task #2 from the Russian Federal Agency for Intellectual Property, Patents and Trademarks:** Blockchain platform for technology transfer
 
 ### Hackathon Awards:
 The total prize fund amounted to **1,500,000** Rubles.
