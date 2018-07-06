@@ -30,8 +30,8 @@ Before the hackathon, all teams were given a qualifying task. This was done to a
 ### Main Phase of the Hackathon
 The hackathon participants could choose from a number of tasks given by the hackathon partners.
 
- - **Task #1 from Apla:** Testing the platform and bug-hunting]
- - **Task #2 from Apla:** Providing the best development solution on the platform]
+ - **Task #1 from Apla:** Testing the platform and bug-hunting
+ - **Task #2 from Apla:** Providing the best development solution on the platform
  - **Task from Rybakov-Fund:** Use of blockchain in the non-commercial sector
  - **Task from Gazprom-Neft:** Use of blockchain in oil production operations
  - **Task #1 from the Russian Federal Agency for Intellectual Property, Patents and Trademarks:** Use of blockchain to register developments and inventions
